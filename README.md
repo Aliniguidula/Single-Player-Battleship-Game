@@ -9,13 +9,6 @@ This is a one-player console-based Battleship game developed in Java as the fina
 - When a ship is fully hit, the game announces: You just sunk a <SHIP_TYPE>
 The game ends when all ships are sunk and shows the number of shots used.
 
-🛠️ **Ship Fleet**
-Ship Type	Length	Quantity
-Battleship	4	1
-Cruiser	3	2
-Destroyer	2	3
-Submarine	1	4
-
 🧱 **Core Classes**
 
 BattleshipGame: Main class handling the game loop and user interaction.
